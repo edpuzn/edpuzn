@@ -12,6 +12,6 @@ Hi I'm Edip Uzan !<br><br>🏫 Studied Software Engineering at Firat University 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=edpuzn&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=edpuzn&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=osmanunal&label=Profile%20views&color=0e75b6&style=flat" alt="osmanunal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=edpuzn&label=Profile%20views&color=0e75b6&style=flat" alt="osmanunal" /> </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
